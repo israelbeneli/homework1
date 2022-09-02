@@ -131,4 +131,27 @@ body{
                 flex-direction: column;
             }
         }
+@media(max-width:800px)
+        {
+            .header{
+                font-size: 15px;
+                height: 100px;
+            }
+              .all_pic
+            {
+                flex-direction: column;
+            }
+        }
+@media(max-width:1200px)
+        {
+            .header{
+                font-size: 15px;
+                height: 100px;
+            }
+              .all_pic
+            {
+                flex-direction: column;
+            }
+        }
         
+                
